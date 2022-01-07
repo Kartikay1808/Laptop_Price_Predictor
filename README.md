@@ -10,3 +10,5 @@ Dataset is taken from kaggle.
 Streamlit is an open-source web framework written in Python. It is the fastest way to create data apps and it is widely used by data science practitioners to deploy machine learning models. To work with this it is not important to have any knowledge of frontend languages.
 
 Streamlit contains a wide variety of functionalities, and an in-built function to meet your requirement. It provides you with a plot map, flowcharts, slider, selection box, input field, the concept of caching
+
+![Screenshot (30)](https://user-images.githubusercontent.com/92773900/148543107-c7a4c27e-29f3-4135-b55a-d47fd034475f.png)
