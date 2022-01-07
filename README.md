@@ -3,7 +3,7 @@ We will make a project for Laptop price prediction. The problem statement is tha
 
 **Dataset:**
 Dataset is taken from kaggle.
-## Datasetlink: 
+## Datasetlink: https://www.kaggle.com/danielbethell/laptop-prices-prediction/data
 
 **Streamlit**
 
